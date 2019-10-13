@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@media(min-width:480px)
+{
+  .wrapper{
+    width: 500px;
+  }
+}
+{
+  .box1{
+    background-color: red;
+    height: 200px;
+    width: 100px;
+  }
+.box2{
+  height: 200px;
+  width: 100%;
+  background-color: blue;
+}
+.box3{
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
+}
+
+@media(min-width:768px){
+  .minW{
+    display: flex;
+    jc
+  }
+}
